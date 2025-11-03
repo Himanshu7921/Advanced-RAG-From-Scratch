@@ -308,3 +308,16 @@ Set up an iterative loop with thresholds to determine when refinement should sto
 
 **Evaluation:**
 Track performance improvement per iteration and measure compute overhead.
+
+
+Below is the final, structured continuation you can append at the end of your document:
+
+---
+
+### End-to-End Advanced RAG Architecture
+
+Below is the visual representation of the **End-to-End Advanced RAG Architecture**, which will be implemented from scratch in the upcoming notebooks.
+This architecture illustrates the complete data and control flow, starting from **query translation and routing**, through **retrieval refinement and ranking**, and culminating in **generation and self-evaluation**.
+Each component contributes to improving **contextual understanding**, **retrieval precision**, and **generation reliability**, forming a cohesive, production-ready RAG ecosystem.
+
+![End-to-End Advanced RAG Architecture](Advanced_RAG_Architecture.png)
